@@ -1,0 +1,2 @@
+# Localstorage
+Localstorage using JavaScript
